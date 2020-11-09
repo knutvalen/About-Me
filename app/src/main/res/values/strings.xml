@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Knut Valen</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hello! My name is Knut Valen.
+        \n\nI like lists, so here is a list about me:
+        \n\nI like Swift.
+        \n\nI like Kotlin.
+        \n\nI like frontend development.
+        \n\nI like React and JavaScript.
+        \n\nI like to ride my mountainbike.
+        \n\nI like to ride my snowboard.
+        \n\nI like food.
+        \n\nI love coffee.
+        \n\nI like tacos.
+    </string>
+    <string name="question_what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
